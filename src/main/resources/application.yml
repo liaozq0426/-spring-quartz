@@ -1,0 +1,4 @@
+quartz:
+  #秒，分钟，时，日，月，周，年  
+  expression: 
+    print: 0/5 * * * * ? *
